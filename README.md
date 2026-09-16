@@ -3,7 +3,7 @@
 This folder contains high-level documentation for our repositories. Each file documents a single repository.
 
 General Documentation links and websites:
-* https://quip.gitbook.io/docs/ - Published docs site
+* https://developers.quip.network/docs - Published docs site
 * https://gitlab.com/piqued/gitbook - the git repo backing the published docs site.
 * https://quip.network/ - the website
 * https://quip.locker/ and https://vault.quip.network/ - the smart wallet app
